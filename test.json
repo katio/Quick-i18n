@@ -1,38 +1,38 @@
 {
     "total": 11,
     "movies": [{
-            id: "Prueba 10/cognox",
-            text: "Prueba 10/cognox"
+            "id": "Prueba 10/cognox",
+            "text": "Prueba 10/cognox"
         }, {
-            id: "Prueba 9/cognox",
-            text: "Prueba 9/cognox"
+            "id": "Prueba 9/cognox",
+            "text": "Prueba 9/cognox"
         }, {
-            id: "Prueba 11/cognox",
-            text: "Prueba 11/cognox"
+            "id": "Prueba 11/cognox",
+            "text": "Prueba 11/cognox"
         }, {
-            id: "Prueba 5/cognox",
-            text: "Prueba 5/cognox"
+            "id": "Prueba 5/cognox",
+            "text": "Prueba 5/cognox"
         }, {
-            id: "Prueba 4/cognox",
-            text: "Prueba 4/cognox"
+            "id": "Prueba 4/cognox",
+            "text": "Prueba 4/cognox"
         }, {
-            id: "Prueba 3/cognox",
-            text: "Prueba 3/cognox"
+            "id": "Prueba 3/cognox",
+            "text": "Prueba 3/cognox"
         }, {
-            id: "Prueba 2/cognox",
-            text: "Prueba 2/cognox"
+            "id": "Prueba 2/cognox",
+            "text": "Prueba 2/cognox"
         }, {
-            id: "Prueba 6/cognox",
-            text: "Prueba 6/cognox"
+            "id": "Prueba 6/cognox",
+            "text": "Prueba 6/cognox"
         }, {
-            id: "Prueba 8/cognox",
-            text: "Prueba 8/cognox"
+            "id": "Prueba 8/cognox",
+            "text": "Prueba 8/cognox"
         }, {
-            id: "Prueba 7/cognox",
-            text: "Prueba 7/cognox"
+            "id": "Prueba 7/cognox",
+            "text": "Prueba 7/cognox"
         }, {
-            id: "Prueba 1/cognox",
-            text: "Prueba 1/cognox"
+            "id": "Prueba 1/cognox",
+            "text": "Prueba 1/cognox"
         }
     ]
 }

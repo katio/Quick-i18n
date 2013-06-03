@@ -138,4 +138,26 @@
 
 ,"Quick-i18n is an original idea of Johann Paul Echavarria Zapata ( @abrupto ) with the help of: Alvaro José Agamez Licha and Juan Carlos Gonzalez Arroyave. We all three worked in www.cognox.com" :
 "Quick-i18n es una idea original de Johann Paul Echavarria Zapata ( @abrupto ) con la ayuda de : Alvaro José Agamez Licha y Juan Carlos Gonzalez Arroyave. Los tres trabajamos en www.cognox.com"
+
+,"¿Why Quick-i18n is quick?" :
+"¿Porqué Quick-i18n es rápido?"
+
+,"Author" :
+"Autor"        
+
+,"Quick-18n is a radical approach that allows a quick internationalization of websites not designed for internationalization by just adding a cookie and a dictionary (a js file) for each new language. The key is using the actual language as the base for the translations to other language.":
+"Quick-18n es un enfoque radical que permite una rápida internacionalización de sitios web que no están diseñados para la internacionalización con sólo añadir una cookie y un diccionario (un archivo js) por cada nuevo idioma. La clave es usar el lenguaje actual como la base para las traducciones a otros idiomas."
+
+,"¿How it works?" :
+"¿Cómo funciona?"   
+
+,"Quick-i18n replaces every single text node using the actual languaje as key. It replaces phrases and long paragraphs. Also, it can replace the value of the attributes passed as parameters." :
+"Quick-i18n reemplaza todos los nodos de texto usando el languaje actual como clave. Sustituye frases y párrafos largos. También puede reemplazar el valor de los atributos que se le envíen como parámetro."
+
+,"Use a JSON validator for the dictionary, there are a lot, one of them online is:" :
+"Utilice un validador JSON para el diccionario, hay muchos, uno de ellos (en línea) es:"
+
+,"You could have a dictionary for your base language. That will give you more flexibility." :
+"Usted podría tener un diccionario de su idioma base. Eso le dará más flexibilidad."
+
 }

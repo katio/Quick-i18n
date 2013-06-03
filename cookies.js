@@ -54,7 +54,7 @@ if (langCookie != null && langCookie != "")
             {
               "dictionary" : json,
               "translateAlertPrompConfirm" : true,
-              "attr" : [ "value" , "data-content"] /*Array with attributes to translate buttons and other important attr*/
+              "attr" : [ "value" , "data-content", "data-original-title"] /*Array with attributes to translate buttons and other important attr*/
             }
         ); 
    }

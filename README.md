@@ -1,7 +1,7 @@
 #Quick-i18n
 ##¡Internationalization and multilanguage made quick and easy!
   Quick-i18n is a jQuery plugin which allow you to internationalize your websites in a snap.
-  Download and take a look to index.html or visit the <a href="http://johannpaul.net/Quick-i18n/">demo</a>
+  Download and take a look to index.html or visit the <a href="http://katio.github.io/Quick-i18n/">demo</a>
     
 ##¿Why Quick-i18n is quick?
 Quick-18n is a radical approach that allows a quick internationalization of websites not designed for internationalization by just adding a cookie and a dictionary (a js file) for each new language. The key is using the actual language as the base for the translations to other language.
